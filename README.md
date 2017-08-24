@@ -10,14 +10,15 @@ After processing, you could get 8x images for training.
 
 # Demo
 
-Origin Image:
-
+## Origin Image:
 
 <img src="./images/1.jpg" width="30%">
 
-Generate Images:
+## Generate Images:
 
-<img src="./images/1_180.jpg" width="30%"> <img src="./images/1_180_fip.jpg" width="100"> <img src="./images/1_180_mirror.jpg" width="100"> <img src="./images/1_270.jpg" width="100"> <img src="./images/1_90.jpg" width="100"> <img src="./images/1_90_fip.jpg" width="100"> <img src="./images/1_90_mirror.jpg" width="100">
+<img src="./images/1_180.jpg" width="30%"> <img src="./images/1_180_fip.jpg" width="100"> <img src="./images/1_180_mirror.jpg" width="100">  
+
+<img src="./images/1_270.jpg" width="100"> <img src="./images/1_90.jpg" width="100"> <img src="./images/1_90_fip.jpg" width="100"> <img src="./images/1_90_mirror.jpg" width="100">
 
 
 ## Usage
