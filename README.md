@@ -12,26 +12,12 @@ After processing, you could get 8x images for training.
 
 Origin Image:
 
-![origin](images/1.jpg)
+
+<img src="./images/1.jpg" width="30%">
 
 Generate Images:
 
-- <img src="./images/1_180.jpg", width="100">
-- <img src="./images/1_180_fip.jpg", width="100">
-- <img src="./images/1_180_mirror.jpg", width="100">
-- <img src="./images/1_270.jpg", width="100">
-- <img src="./images/1_90.jpg", width="100">
-- <img src="./images/1_90_fip.jpg", width="100">
-- <img src="./images/1_90_mirror.jpg", width="100">
-
-
-- ![1_180](images/1_180.jpg)
-- ![1_180_fip](images/1_180_fip.jpg)
-- ![1_180_mirror](images/1_180_mirror.jpg)
-- ![1_270](images/1_270.jpg)
-- ![1_90](images/1_90.jpg)
-- ![1_90_fip](images/1_90_fip.jpg)
-- ![1_90_mirror](images/1_90_mirror.jpg)
+<img src="./images/1_180.jpg" width="30%"> <img src="./images/1_180_fip.jpg" width="100"> <img src="./images/1_180_mirror.jpg" width="100"> <img src="./images/1_270.jpg" width="100"> <img src="./images/1_90.jpg" width="100"> <img src="./images/1_90_fip.jpg" width="100"> <img src="./images/1_90_mirror.jpg" width="100">
 
 
 ## Usage
